@@ -6,7 +6,7 @@
 
 Projeto construido no evento Next Level Week da Rocketseat
 
-🔗 [Clique aqui para acessar!](deborahbussolonlw.netlify.app)
+🔗 [Clique aqui para acessar!](https://deborahbussolonlw.netlify.app)
 
 ## 💻 Tecnologias
 - HTML
